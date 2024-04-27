@@ -1,0 +1,9 @@
+Objects:
+   Square:
+        x coordinate
+        y coordinate
+        length
+        width
+        color
+      methods:
+        draw()
